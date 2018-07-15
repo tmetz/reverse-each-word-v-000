@@ -6,3 +6,5 @@ def reverse_each_word(sentence)
   puts word_array.join(" ")
   word_array.join(" ")
 end
+
+reverse_each_word("This is a test, thanks!")
